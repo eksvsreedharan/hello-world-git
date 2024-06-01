@@ -71,7 +71,6 @@ Código en Json
         }
     }
 }
-The 
 ```
 
 # Tablas
